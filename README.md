@@ -7,7 +7,7 @@ A backend service built with Node.js, Express, and SQLite for managing bookmarks
 - List all bookmarks or search by keyword/tag.
 - Delete bookmarks by ID.
 
-## Data Model
+--->>  Data Model
 - **id**: (Integer, Primary Key) Autoincremented identifier.
 - **title**: (String, Required) The title of the bookmark.
 - **url**: (String, Required) The destination URL.
